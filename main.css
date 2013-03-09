@@ -1,5 +1,5 @@
 body{
-  background: url('http://imageshack.us/a/img32/5533/99078131.png');
+	background: url('https://dl.dropbox.com/u/58955357/images/bg.png');
 	background-size: 100%;
 }
 
@@ -19,6 +19,29 @@ body{
 	float: right;
 }
 
+#subcontent{
+	margin:auto;
+	width:740px;
+	background: transparent url('https://dl.dropbox.com/u/58955357/images/contentBg.png') repeat-y ;
+    display: block;
+    font: normal 12px arial, sans-serif;
+    text-decoration: none;
+    background-size:100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+}
+
+p{
+	font-size: 15pt;
+	font-style: normal;
+}
+
+h2{
+	padding-top:20px;
+	text-decoration: underline;
+	font-size: 20pt;
+}
 ul#nav{
 	list-style-type: none;
 	margin: 0;
